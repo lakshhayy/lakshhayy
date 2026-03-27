@@ -1,5 +1,89 @@
-# 💫 About Me:
-Lakshay Kaushik 👨‍💻  <br><br>Full-Stack Developer | ECE @ DTU  <br><br>I build responsive frontends and scalable backend systems.  <br>Experienced in developing REST APIs, authentication flows, and full-stack web apps using the MERN stack.  <br>Focused on writing clean, maintainable code and understanding core fundamentals.<br><br>### Tech Stack<br>JavaScript | C++ | Python  <br>React | Node.js | Express.js  <br>MongoDB | Git | PostgresSQL<br><br><br>Open to internships & collaborations 🚀
+# Hi, I'm Lakshay Kaushik 👋
+
+**Full-Stack Developer | ECE @ DTU '27 | Building production systems with Node.js, React & AI**
+
+I build scalable backend systems and ship real products — not just tutorials.  
+Currently building an **AI Meeting Co-pilot SaaS** and interning/working on production deployments.
+
+---
+
+## 🚀 Featured Projects
+
+### [AI Meeting Co-pilot](https://github.com/lakshhayy/ai-meeting-copilot)
+> Full-stack SaaS that transcribes meeting recordings and generates AI-powered summaries
+
+- Async processing pipeline using **Bull + Redis** queues — handles 60min+ recordings without timeout
+- **Groq Whisper API** for ultra-fast transcription (10-20x faster than OpenAI Whisper)
+- Multi-tenant RBAC with **Clerk**, media storage on **Cloudinary**, **PostgreSQL + Drizzle ORM**
+- Stack: `React` `TypeScript` `Node.js` `PostgreSQL` `Redis` `Groq API` `Clerk` `Cloudinary`
+
+### [Automated Subject Allocation System](https://github.com/lakshhayy/subject-allocation)
+> Deployed at NIT Bhopal — actively used by faculty every semester
+
+- Automates allocation of 50+ courses based on seniority + workload constraints
+- Atomic PostgreSQL transactions prevent race conditions — 100% allocation integrity
+- RBAC (admin/faculty), Zod schema validation, real-time preference tracking dashboard
+- Stack: `React` `TypeScript` `Node.js` `PostgreSQL` `Zod`
+
+### [Video Platform Backend](https://github.com/lakshhayy/video-platform)
+> RESTful API supporting 100+ concurrent connections
+
+- Media upload pipeline with **Multer + Cloudinary**, NoSQL schemas with **Mongoose**
+- Custom JWT middleware for secured routes
+- Stack: `Node.js` `Express` `MongoDB` `Mongoose` `JWT` `Cloudinary`
+
+---
+
+## 💼 Experience
+
+**Full Stack & Cybersecurity Intern** — *ISEA Phase-III, MANIT Bhopal* `Dec 2025 – Jan 2026`  
+→ Automated a 3-day forensic workflow to **under 5 minutes** (99% reduction) using Node.js + PostgreSQL  
+→ Applied OWASP Top 10, RBAC, TLS encryption, ClamAV/YARA-based malware detection  
+
+**Frontend Developer Intern** — *Clarityze (Health-Tech Startup)* `Oct 2024 – Mar 2025`  
+→ Built 3D browser-based therapy games using **Three.js** at **60+ FPS**  
+→ Gamified 15+ medical exercises, improving patient therapy engagement  
+
+---
+
+## 🛠️ Tech Stack
+
+```
+Languages:    C/C++   JavaScript   TypeScript   Python   SQL
+Frontend:     React   Tailwind CSS   Three.js   Recharts   Zod
+Backend:      Node.js   Express   FastAPI
+Databases:    PostgreSQL   MongoDB   Redis
+ORM/Tools:    Drizzle ORM   Mongoose   Drizzle
+Auth:         Clerk   JWT   RBAC   OAuth
+DevOps:       Git   GitHub   Docker (basics)
+AI/APIs:      Groq Whisper   OpenAI API   LLM integration
+Security:     OWASP Top 10   TLS   YARA   FTK   Oxygen Forensics
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshhayy&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshhayy&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🎯 Currently
+
+- 🔨 Building **AI Meeting Co-pilot** — async transcription SaaS
+- 📚 B.Tech ECE @ Delhi Technological University (2027)
+- ⚡ Competitive programming on LeetCode (120+ problems)
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshay-kaushik)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lakshhayy)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshaykaushik2059@gmail.com)
 
 
 ## 🌐 Socials:
