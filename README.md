@@ -62,15 +62,6 @@ Security:     OWASP Top 10   TLS   YARA   FTK   Oxygen Forensics
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshhayy&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshhayy&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-</p>
-
----
-
 ## 🎯 Currently
 
 - 🔨 Building **AI Meeting Co-pilot** — async transcription SaaS
