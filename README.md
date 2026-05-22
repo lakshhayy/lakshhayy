@@ -1,6 +1,6 @@
 # 👋 Lakshay Kaushik
 
-**SDE Intern Candidate · ECE @ DTU '27 · Full-Stack + AI Systems**
+**ECE @ DTU '27 · Full-Stack + AI Systems**
 
 I build production systems, not side-project demos. My projects run on real infrastructure, serve real users, and have bugs I actually had to debug at 2am.
 
